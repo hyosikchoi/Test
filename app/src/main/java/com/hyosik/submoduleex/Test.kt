@@ -13,4 +13,7 @@ object Test {
     @JvmStatic
     fun plus(x: Int, y: Int) = x.plus(y)
 
+    @JvmStatic
+    fun minus(x: Int, y: Int) = x.minus(y)
+
 }
